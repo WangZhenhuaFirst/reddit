@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 gem 'devise'
 gem 'jquery-rails'
+gem 'acts_as_votable', '~> 0.10.0'
 
 
 group :development, :test do
